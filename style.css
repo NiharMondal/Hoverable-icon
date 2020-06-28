@@ -11,7 +11,7 @@ h1{
     text-shadow: 2px 2px red;
     font-size: 40px;
 }
-p{
+.content{
     padding: 10px;
     font-size: 30px;
 }
@@ -58,4 +58,8 @@ a:hover .fa-whatsapp{
 }
 a:hover .fa-youtube{
     color: #f00;
+}
+h3{
+    margin-top: 20px;
+    font-size: 40;
 }
